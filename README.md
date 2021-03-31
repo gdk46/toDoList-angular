@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center"> 
-📖 Estudo dirigido aos frameworks Angular,
+📖 Estudo dirigido aos frameworks Angular
 </p>
 
 <p align="center" style="margin-bottom:50px;">
