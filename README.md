@@ -78,6 +78,6 @@ Agora é só registrar e seguir com suas metas!!!
 ### Features
 
 - [x] Cadastro de Tarefa
-- [x] Refazer de Tarefa
+- [x] Refazer Tarefa
 - [x] exclusão de Tarefa
 - [x] Listagem de Tarefa
