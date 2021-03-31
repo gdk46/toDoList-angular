@@ -32,7 +32,7 @@ O aplicativo é bem simples pois o principal intuito foi entender alguns conceit
 #### Conceitos 
 * Módulos
 * Template
-* Metadate
+* Metadata
 * Componente
 * Vinculação de propriendades e ligação de elementos
 * Diretivas
